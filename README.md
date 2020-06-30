@@ -1,0 +1,2 @@
+# TraderStocks
+ App to stocks.
