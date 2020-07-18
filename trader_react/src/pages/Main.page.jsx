@@ -7,9 +7,7 @@ function MainPage() {
     
     return (
         <>
-            <Header/>
-            <br/>
-            <Carteira/>
+            <Header/>           
        </>
     );
 }
